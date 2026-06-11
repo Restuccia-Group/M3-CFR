@@ -121,3 +121,5 @@ After downloading and extracting the dataset into the expected folder structure:
 ```bash
 python train_vgg16_v2.py
 ```
+
+#### For any question or query, please contact [Foysal Haque](https://kfoysalhaque.github.io/) (**haque.k@northeastern.edu**)
